@@ -14,6 +14,8 @@ import CartButton from "./components/CartButton";
 import CartAndStore from "./components/CartAndStore";
 
 import GivePage from "./pages/GivePage"; // ✅ import your GivePage
+import TeamPage from "./pages/TeamPage";
+
 
 function App() {
   return (
@@ -37,6 +39,7 @@ function App() {
             }
           />
           <Route path="/give" element={<GivePage />} /> {/* Give page */}
+          <Route path="/team" element={<TeamPage />} />
         </Routes>
       </main>
       <Footer />

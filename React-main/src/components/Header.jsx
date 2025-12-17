@@ -48,9 +48,9 @@ const Header = () => {
           </li>
 
           <li>
-            <a href="#team" onClick={closeMenu}>
+            <Link to="/team" onClick={closeMenu}>
               Team
-            </a>
+            </Link>
           </li>
         </ul>
       </nav>

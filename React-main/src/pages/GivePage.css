@@ -37,6 +37,7 @@
             font-size: 3.5rem;
             color: var(--dark-navy);
             text-align: center;
+            margin-top: 2rem;
             margin-bottom: 3rem;
             font-weight: 900;
         }
