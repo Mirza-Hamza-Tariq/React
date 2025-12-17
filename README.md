@@ -67,6 +67,8 @@ npm start
 
 **Author**
 Name: Your Name
+
 GitHub: https://github.com/yourusername
+
 Email: your.email@example.com
 
